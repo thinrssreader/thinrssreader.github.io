@@ -40,6 +40,6 @@ GridRead is still a work in progress, and I will be adding more features soon as
 
 - GridRead will be always as simple and to the point as possible. Its main goal will always be to provide cleanest experience possible. GridRead will never display ads and obstruct your experience in any other way.
 - We will never try to build a social platform on top of GridRead. We will never share your data with anyone or use it in any other way. Release version of GridRead will allow you to export and delete all of your data without trace.
-- Web version of GridRead will always be free to use. Additional features may be provided for a fee but they will never affect other functions.<br/<small>This is new for you if you've seen GridRead before. I will make a separate blog post to explain why I initially decided to make my app paid and why I changed my mind and decided to make it free.</small>
+- Web version of GridRead will always be free to use. Additional features may be provided for a fee but they will never affect other functions.<br/><small>This is new for you if you've seen GridRead before. I will make a separate blog post to explain why I initially decided to make my app paid and why I changed my mind and decided to make it free.</small>
 
 I will publish more posts on ideology, development and growth of GridRead soon as well as share experience I got building it. Stay tuned!
