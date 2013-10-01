@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
+{% include JB/setup %} 
 
 Thin is a minimalistic RSS reader designed to help you concentrate on reading by taking distractions away.
 
@@ -15,7 +15,7 @@ First of all, any web app is hard enough, because it is already three levels of 
 
 Most modern RSS readers are more or less similar to Google Reader. When you open it, you immediately see that reading is just a small part of it. Everything tells you that RSS is so much more than just updates from a few sites stacked together. The interface is complex and multi-layered itself, so you have to dive even deeper to get to reading.
 
-And while you read, you are constantly tempted to jump one level back and switch focus to navigation. Text is tightly packed inside a box and doesn't look like anything worth reading. So once you lost your focus, you don't really want to go back. As a result, it is very hard to read in such environment.
+And while you read, you are constantly tempted to jump one level back and switch focus to navigation. Text is tightly packed inside a box and doesn't look like anything worth reading. So once you lost your focus, you don't really want to go back. As a result, it is very hard to read long texts in such environment.
 
 Since Google Reader is dead, I'll illustrate this with a screenshot of [TheOldReader](http://theoldreader.com), which reproduces classic Google Reader interface including its flaws.
 
@@ -29,4 +29,4 @@ Can RSS experience be improved to match? Thin Reader is a result of my efforts t
 
 Thin Reader is a fully standalone and independent app powered by its own RSS engine. It provides basic set of features for working with your feeds. You can organize subscriptions using tags or quickly jump to any of your feeds using instant search.
 
-Thin Reader is currently in early alpha stage. It will be significantly improved over time and new features will be added, but it will always be a minimalistic app with focus on distraction free reading experience. Please stay tuned for updates.
+Thin Reader is currently in early alpha stage, but it's already capable of being your RSS reader. It will be significantly improved over time and new features will be added, but it will always be a minimalistic app with focus on distraction free reading experience.
