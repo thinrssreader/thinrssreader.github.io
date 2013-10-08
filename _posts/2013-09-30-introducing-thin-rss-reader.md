@@ -11,7 +11,7 @@ Thin is a minimalistic RSS reader designed to help you concentrate on reading by
 
 Many people consider RSS obsolete today, because it is too hard to use. And they are right. But of course, RSS itself is just a format, which has proven its usefulness and surely isn't going anywhere. The idea of RSS reader is very simple too: you provide links to websites you want to read, then read updates from all of them in a single feed. People have no problem understanding this concept on Twitter and Facebook. So what't making RSS so hard?
 
-RSS was always considered a geeky thing. Ten years ago it was mostly used by information freaks who consumed way more information than an average internet user. So RSS readers traditionally have advanced capabilities for managing sources and filtering the information stream. It is also a tradition to put this functionality in front of reading experience. Information was more valuable back then, and people were so motivated to read it that painfully small fonts and incomfortable reading space were considered normal.
+RSS was always considered a geeky thing. Ten years ago it was mostly used by people who consumed way more information than average internet user. So RSS readers traditionally have advanced capabilities for managing sources and filtering the information stream. It is also a tradition to put this functionality in front of reading experience. Information was more valuable back then and people were much more motivated to read it, so painfully small font and uncomfortable reading space were considered normal.
 
 ![TheOldReader](/assets/theoldreader.png)
 
