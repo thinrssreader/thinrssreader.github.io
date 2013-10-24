@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GridRead blog
+title: crimefighter.github.io
 tagline:
 ---
 {% include JB/setup %}

@@ -1,1 +1,0 @@
-Thin Reader helps you concentrate on reading by taking distractions away. Its minimal interface is designed to provide uninterrupted reading experience.
